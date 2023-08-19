@@ -19,6 +19,10 @@
 		the devtools network panel and reloading.
 	</p>
 
+	<button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+  Click me
+</button>
+
 	<p>
 		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
 		using it with JavaScript disabled!
